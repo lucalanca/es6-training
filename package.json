@@ -1,0 +1,27 @@
+{
+  "name": "es6-training",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucalanca/es6-training.git"
+  },
+  "author": "João Figueiredo <joao.castrofigueiredo@gmail.com> (http://lucalanca.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucalanca/es6-training/issues"
+  },
+  "homepage": "https://github.com/lucalanca/es6-training",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-6to5": "^2.0.2",
+    "gulp-nodemon": "^1.0.5"
+  },
+  "dependencies": {
+    "faker": "^2.1.2"
+  }
+}
